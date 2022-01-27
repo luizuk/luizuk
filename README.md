@@ -1,7 +1,14 @@
 ### Hi guys, I'm Luiz Paulo Souza from Brazil 🇧🇷.
+
+
 🔭 CEO and Founder of <a href='https://github.com/lupasoftware'>@lupasoftware.</a> (<a href='https://lupatech.io'>Web Platform</a>)
 
-Know more about our universal solution apps.
+🌐 Web, 📲 Mobile, 💎BlockChain and 👾 Games dev.
+
+💡 Know more about our 🌎 universal solution apps.
+
+
+
 
 ⚡ React Native Engineer.
 ⚡ UX/UI Designer.
