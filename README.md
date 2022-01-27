@@ -1,7 +1,8 @@
 ### Hi guys, i'm Luiz Paulo Souza.
-CEO and Founder of @lupasoftware.
+🔭 CEO and Founder of @lupasoftware.
 
-Full Stack React Native Developer.
+⚡ Full Stack React Native Developer.
+⚡ UX/UI Designer.
 
 <!--
 **luizuk/luizuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
