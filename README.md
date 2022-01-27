@@ -1,5 +1,7 @@
 ### Hi guys, I'm Luiz Paulo Souza from Brazil. 🇧🇷
 
+Graduated Automation Engineer from  <a href='https://ufop.br'>UFOP</a>. 
+
 
 🔭 CEO and Founder of <a href='https://github.com/lupasoftware'>@lupasoftware.</a> (<a href='https://lupatech.io'>Our web platform</a>)
 
