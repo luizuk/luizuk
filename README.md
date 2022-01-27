@@ -1,4 +1,4 @@
-### Hi guys, I'm Luiz Paulo Souza from Brazil. 🇧🇷
+### Hi little guys, I'm Luiz Paulo Souza from Brazil. 🇧🇷
 
 Graduated Automation Engineer from  <a href='https://ufop.br'>UFOP</a>. 
 
