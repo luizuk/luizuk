@@ -1,5 +1,7 @@
 ### Hi guys, i'm Luiz Paulo Souza.
-🔭 CEO and Founder of <a href='https://lupatech.io'>@lupasoftware.</a>
+🔭 CEO and Founder of <a href='https://github.com/lupasoftware'>@lupasoftware.</a> 
+
+<a href='https://lupatech.io'>Web Platform</a> 
 
 ⚡ Full Stack React Native Developer.
 ⚡ UX/UI Designer.
