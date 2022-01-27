@@ -3,7 +3,7 @@
 
 🔭 CEO and Founder of <a href='https://github.com/lupasoftware'>@lupasoftware.</a> (<a href='https://lupatech.io'>Our web platform</a>)
 
-🌐 Web, 📲 Mobile, 💎 BlockChain and 👾 Games dev.
+🌐 Web, 📲 Mobile, 💎 Blockchain and 👾 Games dev.
 
 🌎 Universal solution apps.
 
