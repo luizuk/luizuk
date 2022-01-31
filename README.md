@@ -3,7 +3,7 @@
 Graduated Automation Engineer from  <a href='https://ufop.br'>UFOP</a>. 
 
 
-🔭 CEO and Founder of <a href='https://github.com/lupasoftware'>@lupasoftware.</a> (<a href='https://lupatech.io'>Our web platform</a>)
+🔭 CTO and Founder of <a href='https://github.com/lupasoftware'>@lupasoftware.</a> (<a href='https://lupatech.io'>Our web platform</a>)
 
 🌐 Web, 📲 Mobile, 💎 Blockchain and 👾 Games dev.
 
