@@ -1,13 +1,13 @@
 ### Hi little guys, I'm Luiz Paulo Souza from Brazil. 🇧🇷
 
-Graduated Automation Engineer from  <a href='https://ufop.br'>UFOP</a>. 
-
-
 🔭 CTO and Founder of <a href='https://github.com/lupasoftware'>@lupasoftware.</a> (<a href='https://lupatech.io'>Our web platform</a>)
 
 🌐 Web, 📲 Mobile, 💎 Blockchain and 👾 Games dev.
-
 🌎 Universal solution apps.
+
+Graduated Automation Engineer from  <a href='https://ufop.br'>UFOP</a>.
+
+[![luizuk](https://github-readme-stats.vercel.app/api/top-langs/?username=luizuk&hide=html&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/luizuk/)
 
 
 
