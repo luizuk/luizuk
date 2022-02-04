@@ -12,7 +12,8 @@
 
 🎓 Graduated Automation Engineer from  <a href='https://ufop.br'>UFOP</a>.
 
-![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=luizuk&show_icons=true&theme=tokyonight)
+[![luizuk](https://github-readme-stats.vercel.app/api/top-langs/?username=luizuk&hide=html&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/luizuk/)
+
 
 
 
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 
 ⚡ React Native Engineer.
 ⚡ UX/UI Designer.
-[![luizuk](https://github-readme-stats.vercel.app/api/top-langs/?username=luizuk&hide=html&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/luizuk/)
 
 
 
