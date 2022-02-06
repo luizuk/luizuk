@@ -1,7 +1,7 @@
 ### Hi little guys, I'm Luiz Paulo Souza from Brazil. 🇧🇷
 
 
-🌎 CTO and founder of <a href='https://github.com/lupasoftware'>@lupasoftware.</a> (<a href='https://lupatech.io'>Our web platform</a>)
+🌎 CTO and founder of <a href='https://lupa.software'> Lupa Software </a>  💻. (<a href='https://github.com/lupasoftware'>@lupasoftware</a>)
 
 📲  React Native Engineer.
 
