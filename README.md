@@ -1,4 +1,4 @@
-### Hi little guys, I'm Luiz Paulo Souza from Brazil. 🇧🇷
+### Hi my friends, I'm Luiz Paulo Souza from Brazil. 🇧🇷
 
 
 🌎 CTO and founder of <a href='https://lupa.software'> Lupa Software </a>  💻. (<a href='https://github.com/lupasoftware'>@lupasoftware</a>)
@@ -12,10 +12,10 @@
 
 🎓 Graduated Automation Engineer from  <a href='https://ufop.br'>UFOP</a>.
 
-[![luizuk](https://github-readme-stats.vercel.app/api/top-langs/?username=luizuk&hide=html&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/luizuk/)
+[![luizuk](https://github-readme-stats.vercel.app/api/top-langs/?username=luizuk&hide=html&layout=compact&theme=dracula&show_icons=true)](https://github.com/luizuk/)
 
 
-
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizuk&show_icons=true&theme=dracula)
 
 
 
