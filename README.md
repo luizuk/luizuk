@@ -3,7 +3,7 @@
 
 🌎 CTO and founder of <a href='https://lupa.software'> Lupa Software </a>  💻. (<a href='https://github.com/lupasoftware'>@lupasoftware</a>)
 
-📲  React Native Engineer.
+📲 React Native and Node.js Engineer.
 
 🎩 UX/UI Designer.
 
@@ -15,7 +15,6 @@
 [![luizuk](https://github-readme-stats.vercel.app/api/top-langs/?username=luizuk&hide=html&layout=compact&theme=dracula&show_icons=true)](https://github.com/luizuk/)
 
 
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizuk&show_icons=true&theme=dracula)
 
 
 
@@ -23,6 +22,8 @@
 **luizuk/luizuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizuk&show_icons=true&theme=dracula)
 
 
 ⚡ React Native Engineer.
