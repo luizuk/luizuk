@@ -1,12 +1,7 @@
-### Hi my friends, I'm Luiz Paulo Souza from Brazil. 🇧🇷
+### Hi my friends, I'm Luiz from Brazil. 🇧🇷
 
 
 🌎 CTO and founder of <a href='https://lupa.software'> Lupa Software </a>  💻. (<a href='https://github.com/lupasoftware'>@lupasoftware</a>)
-
-📲 React Native and Node.js Engineer.
-
-🎩 UX/UI Designer.
-
 
 
 
@@ -20,6 +15,8 @@
 
 <!--
 **luizuk/luizuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📲 React Native and Node.js Engineer.
+
 
 Here are some ideas to get you started:
 
