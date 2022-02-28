@@ -3,11 +3,13 @@
 
 🌎 CTO and founder of <a href='https://lupa.software'> Lupa Software </a>  💻. (<a href='https://github.com/lupasoftware'>@lupasoftware</a>)
 
+⚡ Lupa Software is company of universal apps (Mobile, web, desktop, others) solutions development and maintenance.
 
+📲 I'm actually focused in React Native and Node.js.
 
 🎓 Graduated Automation Engineer from  <a href='https://ufop.br'>UFOP</a>.
 
-[![luizuk](https://github-readme-stats.vercel.app/api/top-langs/?username=luizuk&hide=html&layout=compact&theme=dracula&show_icons=true)](https://github.com/luizuk/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizuk&theme=dark)](https://git.io/streak-stats)
 
 
 
@@ -15,7 +17,7 @@
 
 <!--
 **luizuk/luizuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-📲 React Native and Node.js Engineer.
+
 
 
 Here are some ideas to get you started:
