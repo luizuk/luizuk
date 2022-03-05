@@ -1,30 +1,22 @@
-### 🌎 Hi my friends, I'm Luiz, 💻 CTO and founder of <a href='https://lupa.software'> Lupa Software </a> 🇧🇷
+**💻 CTO and founder of <a href='https://lupa.software'> Lupa Software </a> 🇧🇷** (
+<a href='https://github.com/lupasoftware'>@lupasoftware</a>)
 
-⚡ Lupa Software (💻 <a href='https://github.com/lupasoftware'>@lupasoftware</a>) is a company of universal apps solutions.
-
-🔧 Development and maintenance of system services.
+🖥️ We're a company of development, software services, and solutions.
 - 🤳 Mobile Apps
 - 🌐 Websites
-- 🖥️ Desktop systems
 - 🎮 Games
-- 📺 SmartTV Apps
-- ⌚ SmartWatch Apps
 
-
-**What's your tech demand?
-Talk with us immediately <a href='https://api.whatsapp.com/send?phone=5531975530383'>here</a>.**
+**📳 Contact us <a href='https://api.whatsapp.com/send?phone=5531975530383'>here</a>.**
 
 ![LupinhaOficial](https://user-images.githubusercontent.com/35464652/156080342-2b5a23dc-9c8c-42b0-947b-a7e5a7619cca.png)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-📲 I'm actually focused in ⚛️ React Native and Node.js.
+About Luiz:
 
 🎓 Graduated Automation Engineer from <a href='https://ufop.br'>UFOP</a>.
+
+📲 Actual focus:
+- ⚛️ React Native
+- ⚡ Node.js
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizuk&theme=dark)](https://git.io/streak-stats)
 
