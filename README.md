@@ -1,5 +1,4 @@
-**💻 CTO and founder of <a href='https://lupa.software'> Lupa Software </a> 🇧🇷** (
-<a href='https://github.com/lupasoftware'>@lupasoftware</a>)
+**💻 CTO of <a href='https://lupa.software'>Lupa Magic</a> 🎩** (<a href='https://github.com/lupamagic'>@lupamagic</a>) 🇧🇷
 
 🖥️ We're a company of development, software services, and solutions.
 - 🤳 Mobile Apps
@@ -10,6 +9,7 @@
 
 ![LupinhaOficial](https://user-images.githubusercontent.com/35464652/156080342-2b5a23dc-9c8c-42b0-947b-a7e5a7619cca.png)
 
+
 About Luiz:
 
 🎓 Graduated Automation Engineer from <a href='https://ufop.br'>UFOP</a>.
@@ -18,7 +18,6 @@ About Luiz:
 - ⚛️ React Native
 - ⚡ Node.js
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizuk&theme=dark)](https://git.io/streak-stats)
 
 
 
@@ -27,6 +26,7 @@ About Luiz:
 <!--
 **luizuk/luizuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizuk&theme=dark)](https://git.io/streak-stats)
 
 🎨 UX Desingn creation services. See our design profolio.
 
