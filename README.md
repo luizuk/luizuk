@@ -1,4 +1,4 @@
-**💻 CTO of <a href='https://lupa.software'>Lupa Magic</a> 🎩** (<a href='https://github.com/lupamagic'>@lupamagic</a>) 🇧🇷
+**💻 CTO of <a href='https://lupa.software'>Lupa</a> 🇧🇷** (<a href='https://github.com/lupamagic'>@lupamagic</a>) 
 
 🖥️ We're a company of development, software services, and solutions.
 - 🤳 Mobile Apps
