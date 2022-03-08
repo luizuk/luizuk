@@ -1,13 +1,15 @@
-**CTO of <a href='https://lupa.software'>Lupa</a> 💻. A company from Brazil 🇧🇷 to world. 🌎** (<a href='https://github.com/lupamagic'>@lupamagic</a>) 
+**CTO of <a href='https://lupa.software'>Lupa</a> 💻. A funny development company from Brazil 🇧🇷 to world. 🌎** (<a href='https://github.com/lupamagic'>@lupamagic</a>) 
 ______________________________________________________________________________________________
 
 🇧🇷 Somos uma companhia de desenvlvimento e serviços de software.
 
-<a href='https://api.whatsapp.com/send?phone=5531975530383'>**Orçe seu aplicativo (Android & iOS) ou site conosco aqui.</a>**
+**Orçe seu aplicativo (Android & iOS) ou site <a href='https://api.whatsapp.com/send?phone=5531975530383'>clicando aqui.</a>**
 
 ______________________________________________________________________________________________
 
-🌐 We're a company of development, software services, and solutions. 
+🇬🇧 We're focused in universal solutions using modern technologies.
+
+Products:
 - 🤳 Mobile Apps
 - 🌐 Websites
 - 🎮 Games
@@ -26,6 +28,9 @@ ________________________________________________________________________________
 
 - ⚛️ React Native
 - ⚡ Node.js
+- 📊 Projects Management
+- 🔥 Design UX and Marketing
+- 📈 Scalability
 
 
 
@@ -47,7 +52,7 @@ Here are some ideas to get you started:
 ⚡ React Native Engineer.
 ⚡ UX/UI Designer.
 
-
+🌐
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
