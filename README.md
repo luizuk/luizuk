@@ -14,7 +14,9 @@ Products:
 - 🌐 Websites
 - 🎮 Games
 
-**📳 Contact us <a href='https://api.whatsapp.com/send?phone=5531975530383'>here</a>.**
+**📳 Contact us in <a href='https://api.whatsapp.com/send?phone=5531975530383'>Whats App</a>**
+or
+**<a href='https://discord.gg/eGqaNNC8ty'> Discord.</a>**
 
 ![LupinhaOficial](https://user-images.githubusercontent.com/35464652/156080342-2b5a23dc-9c8c-42b0-947b-a7e5a7619cca.png)
 
