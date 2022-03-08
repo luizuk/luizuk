@@ -1,6 +1,13 @@
-**💻 CTO of <a href='https://lupa.software'>Lupa</a> 🇧🇷** (<a href='https://github.com/lupamagic'>@lupamagic</a>) 
+**CTO of <a href='https://lupa.software'>Lupa</a> 💻. A company from Brazil 🇧🇷 to world. 🌎** (<a href='https://github.com/lupamagic'>@lupamagic</a>) 
+______________________________________________________________________________________________
 
-🖥️ We're a company of development, software services, and solutions.
+🇧🇷 Somos uma companhia de desenvlvimento e serviços de software.
+
+<a href='https://api.whatsapp.com/send?phone=5531975530383'>**Orçe seu aplicativo (Android & iOS) ou site conosco aqui.</a>**
+
+______________________________________________________________________________________________
+
+🌐 We're a company of development, software services, and solutions. 
 - 🤳 Mobile Apps
 - 🌐 Websites
 - 🎮 Games
@@ -9,12 +16,14 @@
 
 ![LupinhaOficial](https://user-images.githubusercontent.com/35464652/156080342-2b5a23dc-9c8c-42b0-947b-a7e5a7619cca.png)
 
+______________________________________________________________________________________________
 
-About Luiz:
+**About Luiz:**
 
 🎓 Graduated Automation Engineer from <a href='https://ufop.br'>UFOP</a>.
 
 📲 Actual focus:
+
 - ⚛️ React Native
 - ⚡ Node.js
 
