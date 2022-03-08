@@ -28,12 +28,10 @@ ________________________________________________________________________________
 
 - ⚛️ React Native
 - ⚡ Node.js
+- 🫂 Open Source Projects
 - 📊 Projects Management
 - 🔥 Design UX and Marketing
 - 📈 Scalability
-
-
-
 
 
 
