@@ -1,7 +1,7 @@
-**CTO of <a href='https://lupa.software'>Lupa</a> 💻. A funny development company from Brazil 🇧🇷 to world. 🌎** (<a href='https://github.com/lupamagic'>@lupamagic</a>) 
+**💻 CTO of <a href='https://lupa.software'>Lupa Magic</a> 🎩. A funny development company from Brazil 🇧🇷 to world. 🌎** (<a href='https://github.com/lupamagic'>@lupamagic</a>) 
 ______________________________________________________________________________________________
 
-🇧🇷 Somos uma companhia de desenvlvimento e serviços de software.
+🇧🇷 Somos uma companhia de desenvlvimento de aplicativos e sites. Conheça nossas soluções.
 
 **Orçe seu aplicativo (Android & iOS) ou site <a href='https://api.whatsapp.com/send?phone=5531975530383'>clicando aqui.</a>**
 
@@ -17,8 +17,6 @@ Products:
 **📳 Contact us in <a href='https://api.whatsapp.com/send?phone=5531975530383'>Whats App</a>**
 or
 **<a href='https://discord.gg/eGqaNNC8ty'> Discord.</a>**
-
-![LupinhaOficial](https://user-images.githubusercontent.com/35464652/156080342-2b5a23dc-9c8c-42b0-947b-a7e5a7619cca.png)
 
 ______________________________________________________________________________________________
 
@@ -39,8 +37,10 @@ ________________________________________________________________________________
 
 <!--
 **luizuk/luizuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![LupinhaOficial](https://user-images.githubusercontent.com/35464652/156080342-2b5a23dc-9c8c-42b0-947b-a7e5a7619cca.png)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizuk&theme=dark)](https://git.io/streak-stats)
+
+![White Background](https://user-images.githubusercontent.com/35464652/159265599-1d2a1ac5-0bec-48f4-9fbd-fb63f4b82170.png)
 
 🎨 UX Desingn creation services. See our design profolio.
 
