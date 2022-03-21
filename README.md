@@ -13,6 +13,7 @@ Products:
 - 🤳 Mobile Apps
 - 🌐 Websites
 - 🎮 Games
+- 💎 Blockchain Dapps
 
 **📳 Contact us in <a href='https://api.whatsapp.com/send?phone=5531975530383'>Whats App</a>**
 or
@@ -28,6 +29,7 @@ ________________________________________________________________________________
 
 - ⚛️ React Native
 - ⚡ Node.js
+- 🌐 Crypto
 - 🫂 Open Source Projects
 - 📊 Projects Management
 - 🔥 Design UX and Marketing
