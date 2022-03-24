@@ -29,11 +29,8 @@ ________________________________________________________________________________
 
 - ⚛️ React Native
 - ⚡ Node.js
-- 🌐 Crypto
+- 💎 Blockchain, Web 3.0 and Crypto
 - 🫂 Open Source Projects
-- 📊 Projects Management
-- 🔥 Design UX and Marketing
-- 📈 Scalability
 
 
 
