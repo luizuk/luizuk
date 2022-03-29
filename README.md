@@ -1,22 +1,14 @@
-**💻 CTO of <a href='https://lupa.software'>Lupa Magic</a> 🎩. A funny development company from Brazil 🇧🇷 to world. 🌎** (<a href='https://github.com/lupamagic'>@lupamagic</a>) 
+**💻 CTO of <a href='https://lupa.software'>Lupa Magic</a> 🎩 (<a href='https://github.com/lupamagic'>@lupamagic</a>)** 
 ______________________________________________________________________________________________
+**Lupa Magic Products:**
 
-🇧🇷 Somos uma companhia de desenvlvimento de aplicativos e sites. Conheça nossas soluções.
-
-**Orçe seu aplicativo (Android & iOS) ou site <a href='https://api.whatsapp.com/send?phone=5531975530383'>clicando aqui.</a>**
-
-______________________________________________________________________________________________
-
-🇬🇧 We're focused in universal solutions using modern technologies.
-
-Products:
 - 🤳 Mobile Apps
-- 🌐 Websites
+- 🌐 Websites (SEO)
 - 🎮 Games
 - 💎 Blockchain Dapps
 
-**📳 Contact us in <a href='https://api.whatsapp.com/send?phone=5531975530383'>Whats App</a>**
-or
+**📳 Contact links: <a href='https://api.whatsapp.com/send?phone=5531975530383'>Whats App Business</a>**
+and
 **<a href='https://discord.gg/eGqaNNC8ty'> Discord.</a>**
 
 ______________________________________________________________________________________________
@@ -28,13 +20,20 @@ ________________________________________________________________________________
 📲 Actual focus:
 
 - ⚛️ React Native
+- ✨ Next.js
 - ⚡ Node.js
 - 💎 Blockchain, Web 3.0 and Crypto
-- 🫂 Open Source Projects
-
-
 
 <!--
+🇧🇷 Somos uma companhia de desenvlvimento de aplicativos e sites. Conheça nossas soluções.
+
+**Orçe seu aplicativo (Android & iOS) ou site <a href='https://api.whatsapp.com/send?phone=5531975530383'>clicando aqui.</a>**
+
+______________________________________________________________________________________________
+
+A funny development company from Brazil 🇧🇷 to world. 🌎** (<a href='https://github.com/lupamagic'>@lupamagic</a>) 
+
+
 **luizuk/luizuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![LupinhaOficial](https://user-images.githubusercontent.com/35464652/156080342-2b5a23dc-9c8c-42b0-947b-a7e5a7619cca.png)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizuk&theme=dark)](https://git.io/streak-stats)
