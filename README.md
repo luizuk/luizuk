@@ -1,4 +1,4 @@
-**💻 CTO of <a href='https://lupa.software'>Lupa Magic</a> 🎩 (<a href='https://github.com/lupamagic'>@lupamagic</a>)** 
+**💻 CTO of <a href='https://lupamagic.com'>LupaMagic.com</a> 🎩 (<a href='https://github.com/lupamagic'>@lupamagic</a>)** 
 ______________________________________________________________________________________________
 **Lupa Magic Products:**
 
