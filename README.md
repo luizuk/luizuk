@@ -1,3 +1,23 @@
+🎓 Graduated Automation Engineer from <a href='https://ufop.br'>UFOP</a>.
+
+⚛️ React, ⚛️ React Native, 💎 Blockchain and ⚡ C++
+
+
+<!--
+🇧🇷 Somos uma companhia de desenvlvimento de aplicativos e sites. Conheça nossas soluções.
+
+**Orçe seu aplicativo (Android & iOS) ou site <a href='https://api.whatsapp.com/send?phone=5531975530383'>clicando aqui.</a>**
+
+______________________________________________________________________________________________
+- ⚛️ React Native
+- ✨ Next.js
+- ⚡ Node.js
+- 💎 Blockchain, Web 3.0 and Crypto
+
+
+A funny development company from Brazil 🇧🇷 to world. 🌎** (<a href='https://github.com/lupamagic'>@lupamagic</a>) 
+
+
 **💻 CTO of <a href='https://lupamagic.com'>LupaMagic.com</a> 🎩 (<a href='https://github.com/lupamagic'>@lupamagic</a>)** 
 ______________________________________________________________________________________________
 **Lupa Magic Products:**
@@ -14,25 +34,6 @@ and
 
 ______________________________________________________________________________________________
 
-**About Luiz:**
-
-🎓 Graduated Automation Engineer from <a href='https://ufop.br'>UFOP</a>.
-
-📲 Actual focus:
-
-- ⚛️ React Native
-- ✨ Next.js
-- ⚡ Node.js
-- 💎 Blockchain, Web 3.0 and Crypto
-
-<!--
-🇧🇷 Somos uma companhia de desenvlvimento de aplicativos e sites. Conheça nossas soluções.
-
-**Orçe seu aplicativo (Android & iOS) ou site <a href='https://api.whatsapp.com/send?phone=5531975530383'>clicando aqui.</a>**
-
-______________________________________________________________________________________________
-
-A funny development company from Brazil 🇧🇷 to world. 🌎** (<a href='https://github.com/lupamagic'>@lupamagic</a>) 
 
 
 **luizuk/luizuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
