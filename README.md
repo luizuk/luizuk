@@ -1,4 +1,9 @@
+
+**💻 CTO of <a href='https://lupamagic.com'>LupaMagic.com</a> 🎩** 
+
 🎓 Graduated Automation Engineer from <a href='https://ufop.br'>UFOP</a>.
+
+Actually focused:
 
 ⚛️ React, ⚛️ React Native, 💎 Blockchain and ⚡ C++
 
