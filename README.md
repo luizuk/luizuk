@@ -3,9 +3,9 @@
 - 🌐 Web Solutions
 - 📱 Mobile Apps Solutions
 
-**(🇺🇸 EN) <a href='https://api.whatsapp.com/send?phone=5531975530383'>Contact us here</a>.**
+**(🇺🇸 EN) <a href='https://api.whatsapp.com/send?phone=5531975530383'>Contact us here</a> - (🇧🇷 PT)  <a href='https://api.whatsapp.com/send?phone=5531975530383'>Fale conosco aqui</a>.**
 
-**(🇧🇷 PT)  <a href='https://api.whatsapp.com/send?phone=5531975530383'>Fale conosco aqui</a>.**
+
 
 ----------------------------------------------------------------------------------------------
 **About Luiz:**
