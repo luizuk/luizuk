@@ -22,7 +22,7 @@ www.escoladabola.com
 pokedexts-lupa.vercel.app/
 </a>
 
-Lupa has great effort to grow up and solve correctly issues to save time. Automation is freedom.
+**Lupa Magic has great effort to grow up and solve correctly issues to save time. Automation is freedom.**
 
 **(🇺🇸 EN) <a href='https://api.whatsapp.com/send?phone=5531975530383'>Contact us here</a>**
 
