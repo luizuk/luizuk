@@ -13,12 +13,12 @@ www.daniellyingrid.com.br
 </a>
 
 
-- Escola da Bola Soccer School News and Blog - <a href='https://www.daniellyingrid.com.br'>
+- Escola da Bola Next.js Mdx Blog - <a href='https://www.daniellyingrid.com.br'>
 www.escoladabola.com
 </a>
 
 
-- Pokedéx funny app <a href='https://pokedexts-lupa.vercel.app/'> - 
+- Pokedéx Chackra UI React App <a href='https://pokedexts-lupa.vercel.app/'> - 
 pokedexts-lupa.vercel.app/
 </a>
 
