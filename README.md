@@ -1,6 +1,6 @@
 ### <a href='https://lupamagic.com'>LupaMagic.com</a>
 
-- 🌐 Web Solutions (Next.js, React, Notion, GraphQL
+- 🌐 Web Solutions (Next.js, React, Notion, GraphQL)
 - 📱 Mobile Apps Solutions Android & iOS (React Native, Expo)
 
 **(🇧🇷 PT)  <a href='https://api.whatsapp.com/send?phone=5531975530383'>Fale conosco aqui</a>.**
