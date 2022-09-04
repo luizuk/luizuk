@@ -14,3 +14,9 @@
 
  - Graduated Automation Engineer from <a href='https://ufop.br'>**UFOP**</a>
  - Web and Mobile Developer
+ 
+ Actual focus: 
+ - **(JS & TS)** React, Next.js, React Native.
+ - **(Server & Data)** Node.js, GraphQL, PostgreSQL, SQL Server.
+ - **(Infrastructure):** AWS, Google Cloud, Azure Devops.
+ 
