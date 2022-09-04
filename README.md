@@ -1,9 +1,8 @@
 ### <a href='https://lupamagic.com'>LupaMagic.com</a>
 
-- 🌐 Web Solutions (Next.js, React, Notion, GraphQL)
-- 📱 Mobile Apps Solutions Android & iOS (React Native, Expo)
+**🌐 Web Solutions**: E-commerces, SEO Blogs, B2B & B2C WebApps.
 
-**Lupa Magic has great effort to grow up and solve correctly issues to save time. Automation is freedom.**
+**📱 Mobile Apps Solutions (Android & iOS)**: Marketplaces, E-commerces, Schedule, Reduce costs.
 
 **<a href='https://api.whatsapp.com/send?phone=5531975530383'>Contact us here</a>**
 
