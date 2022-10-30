@@ -5,3 +5,4 @@ Graduated **Automation Engineer** from **<a href='https://ufop.br'>UFOP</a>** ðŸ
 - E-commerce & Marketplace Apps
 - Scalable Infrastructure
 - Business strategy
+- Open Source
