@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Luiz.
+### 👋 Hey there! I'm Luiz.
 
 🚀 **Software Engineer | Automation Enthusiast | Cloud Advocate**  
 🎓 **B.Sc. in Automation Engineering** from [UFOP](https://ufop.br) 🇧🇷  
@@ -23,20 +23,6 @@ With over **seven years of experience** in software development, I specialize in
 ✔ Optimize **performance and user experiences**  
 ✔ Lead **end-to-end product development**  
 
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizuk&show_icons=true&theme=github_dark&hide_border=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizuk&theme=github-dark&hide_border=true" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizuk&layout=compact&theme=github_dark&hide_border=true" width="49%"/>
-</p>
-
----
 
 ### 💡 Let's Connect!  
 🔗 [LinkedIn](https://linkedin.com/in/luizuksouza) | 🌐 [Lupa Labs](https://lupalabs.com.br)  
