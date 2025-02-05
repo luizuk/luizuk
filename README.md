@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm Luiz.
 
-🚀 **Software Engineer | Automation Enthusiast | Cloud Advocate**  
+🚀 **Software Engineer | Automation Professional | Cloud Advocate**  
 🎓 **B.Sc. in Automation Engineering** from [UFOP](https://ufop.br) 🇧🇷  
 
 With over **seven years of experience** in software development, I specialize in **building scalable products from scratch**, making **architecture decisions**, and **enhancing user experiences** with cutting-edge technologies. My expertise spans full-stack development, **AWS cloud infrastructure**, and **automation-driven solutions**.
@@ -9,10 +9,11 @@ With over **seven years of experience** in software development, I specialize in
 
 ### 🔧 Tech Stack & Expertise
 
-- **Languages:** TypeScript, JavaScript, Swift, C++  
+- **Languages:** TypeScript, JavaScript, Python, C++  
 - **Front-End:** React.js, React Native, Next.js  
 - **Back-End:** Node.js, GraphQL, SQL, MongoDB  
-- **Cloud & DevOps:** AWS (Lambda, EC2, RDS, S3), Docker, CI/CD  
+- **Cloud & DevOps:** AWS (Lambda, EC2, RDS, S3), Docker, CI/CD
+- **AI & ML**: AWS Sagemaker, n8n, OpenAI API, PyTorch
 - **Automation & Scalability:** Cloud-driven solutions, event-based architectures  
 
 ---
